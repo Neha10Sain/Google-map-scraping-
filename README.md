@@ -1,4 +1,4 @@
-# Google-map-scraping-
+# Google-map-scraping
 
 In this Google-Map-Scraping project i scarpe data of Restaurants of a specific place. 
 You can search what you want.
